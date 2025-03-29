@@ -23,6 +23,8 @@ The following schematic represents the architecture of our RISC-V processor desi
 Below is the simulation waveform for the **RISC-V processor**, showing instruction execution, register file updates, ALU operations, and control signals.
 ![Screenshot 2025-03-29 091455](https://github.com/user-attachments/assets/fe6f9845-6ad7-4617-a573-813423a27957)
 
+I learned RISC-V processor design from https://github.com/ash-olakangal
+
 
 ## **📌 4-Bit Johnson Counter using D Flip-Flops**  
 
